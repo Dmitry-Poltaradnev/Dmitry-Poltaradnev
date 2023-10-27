@@ -1,16 +1,11 @@
+- 👋 Hi, I’m Dzmitry
+- 👀 I’m interested in frontend technologies and JavaScript 
+- 🌱 I’m currently learning ReactJS
+- 💞️ I’m looking to collaborate on some frontend topics
+- 📫 How to reach me: polataradnev@gmail.com
 
-hi, i'm Dmitry Poltaradnev
-
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-
-
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />  
-
-
-
+     I will be glad to take part in projects as well as collaborations.
 - 💬 ask me about anything, i am happy to help;
-
 
 
 **languages and tools:**  
@@ -20,7 +15,14 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>  
 
 
-<!--END_SECTION:waka-->
+
+
+
+
+ <img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />  
+
+
+
